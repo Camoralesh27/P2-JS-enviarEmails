@@ -135,3 +135,6 @@ Un codigo postal, usualmente de 5 digitos y solo números.
 ```js
 const regex =  /^\w+([.-_+]?\w+)*@\w+([.-]?\w+)*(\.\w{2,10})+$/ 
 ```
+
+## Spinner de mensaje enviado
+Utilizamos [SpinKit](https://tobiasahlin.com/spinkit/)
