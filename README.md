@@ -138,3 +138,13 @@ const regex =  /^\w+([.-_+]?\w+)*@\w+([.-]?\w+)*(\.\w{2,10})+$/
 
 ## Spinner de mensaje enviado
 Utilizamos [SpinKit](https://tobiasahlin.com/spinkit/)
+
+
+
+## * DESAFIO FINAL *
+**Reto Envio de Emails.**
+- Antes de continuar con el curso, pausa tu aprendizaje para poner en práctica lo que has aprendido.
+- Añade un campo extra llamado CC; para añadir un destinatario extra.
+- Ese campo no es obligatorio; pero en caso de tener información debes validar que sea un email válido.
+
+
